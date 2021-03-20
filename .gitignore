@@ -20,3 +20,23 @@ dataset/val/infected/covid/
 dataset/val/infected/non-covid/
 
 dataset/val/normal/
+
+dataset_hist_equalization/val/normal/
+
+dataset_hist_equalization/val/infected/non-covid/
+
+dataset_hist_equalization/val/infected/covid/
+
+dataset_hist_equalization/train/normal/
+
+dataset_hist_equalization/train/infected/non-covid/
+
+dataset_hist_equalization/train/infected/covid/
+
+dataset_hist_equalization/test/normal/
+
+dataset_hist_equalization/test/infected/non-covid/
+
+dataset_hist_equalization/test/infected/covid/
+
+dataset.zip
