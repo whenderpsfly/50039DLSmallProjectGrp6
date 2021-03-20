@@ -18,4 +18,4 @@ Binaryclass.ipynb: A file to train a binary-class classifier from scratch.
 
 Binaryclass_loadModel.ipynb: A file to load the pretrained binary-class classifier and validate it.
 
-binaryclass_cnn.pt: Weights for pretrained binary-class classifier, for reproducibility
+binaryclass_cnn.pt: Weights for pretrained binary-class classifier, for reproducibility (2 of them)
