@@ -1,9 +1,9 @@
 # 50.039 Deep Learning Y2021 Small Project
-This is a project to classify X-ray images of normal, infected and covid. 
-Members: 
--- Tiang Pei Yuan
--- Lim Yang Zhi
--- Heng Jing Han
+This is a project to classify X-ray images of normal, infected and covid.   
+Members:  
+-- Tiang Pei Yuan  
+-- Lim Yang Zhi  
+-- Heng Jing Han  
 
 FILES:  
 Multiclass.ipynb: A file to train a multiclass classifier from scratch.  
