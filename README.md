@@ -1,7 +1,7 @@
 # 50.039 Deep Learning Y2021 Small Project
 This is a project to classify X-ray images of normal, infected and covid. 
 
-FILES:
+FILES:  
 Multiclass.ipynb: A file to train a multiclass classifier from scratch.  
 Multiclass_loadModel.ipynb: A file to load a pretrained multiclass classifier and validate it.  
 multiclass_cnn.pt: Weights for pretrained multiclass classifier, for reproducibility.
